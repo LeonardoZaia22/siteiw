@@ -20228,3 +20228,7 @@ disabled look for disabled choices in the results dropdown
 	padding: 29px 30px 35px;
 }
 
+.team-classic-figure img {
+	filter: none; /* Remove qualquer filtro de escala de cinza */
+  }
+  
